@@ -1,0 +1,8 @@
+{
+  "name": "bom-dia-frases-randomizer",
+  "version": "1.0.0",
+  "description": "Aplicação utilizada para retornar frases de bom dia aleatoriamente",
+  "main": "index.js",
+  "author": "Daniel Lucas",
+  "license": "MIT"
+}
