@@ -5,4 +5,8 @@ function returnRandomNum() {
   return Math.floor((Math.random() * dataLenght) + 1)
 }
 
-module.exports = data[returnRandomNum()]
+function returnRandomPhrase() {
+  return data[returnRandomNum()]
+}
+
+module.exports = returnRandomPhrase
