@@ -4,5 +4,18 @@
   "description": "Aplicação utilizada para retornar frases de bom dia aleatoriamente",
   "main": "index.js",
   "author": "Daniel Lucas",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniellucasss/bom-dia-frases-randomizer.git"
+  },
+  "keywords": [
+    "bom-dia",
+    "frases",
+    "randomizer"
+  ],
+  "bugs": {
+    "url": "https://github.com/daniellucasss/bom-dia-frases-randomizer/issues"
+  },
+  "homepage": "https://github.com/daniellucasss/bom-dia-frases-randomizer#readme"
 }
